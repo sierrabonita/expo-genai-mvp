@@ -1,0 +1,25 @@
+{
+  "version": "0.2",
+  "ignorePaths": [],
+  "dictionaryDefinitions": [],
+  "dictionaries": [],
+  "words": [],
+  "ignoreWords": [
+    "genai",
+    "expogenaimvp",
+    "paperplane",
+    "forwardslash",
+    "pressable",
+    "nativewind",
+    "tamagui",
+    "unistyles",
+    "segoe",
+    "hiragino",
+    "maru",
+    "meiryo",
+    "menlo",
+    "consolas",
+    "worklets"
+  ],
+  "import": []
+}
