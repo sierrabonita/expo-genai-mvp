@@ -5,7 +5,7 @@
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
-    "android": "expo start --android",
+    "android": "echo emulator -avd ${npm_config_avd:-Pixel_9}",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "lint": "biome lint .",
